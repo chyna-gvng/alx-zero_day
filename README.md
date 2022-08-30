@@ -1,1 +1,2 @@
-My first readme
+### Zero Day
+First readme, Happy coding!
